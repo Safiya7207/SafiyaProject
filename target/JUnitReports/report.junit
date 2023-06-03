@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="15.987" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validating the title" name="Validating the title of Dashboard" time="15.627">
+<system-out><![CDATA[
+Given Open URL..............................................................passed
+And Enter Username..........................................................passed
+Then Enter Password.........................................................passed
+And Click on login..........................................................passed
+Then verify the title.......................................................passed
+And close browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
